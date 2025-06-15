@@ -38,7 +38,7 @@ Totals: 1 000 riders, ₺ 2.58 M annual spend.
 ### Behaviour differences  
 ![Segment comparison](images/behavior_diff_1.png)
 
-***Figure:** Average R/F/M metrics across key segments.*
+***Figure-1:** Average R/F/M metrics across key segments.*
 
 
 ### Churn-risk segment  
