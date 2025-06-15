@@ -37,7 +37,8 @@ Totals: 1 000 riders, ₺ 2.58 M annual spend.
 
 ### Behaviour differences  
 ![Segment comparison](images/behavior_diff_1.png)
-**Figure:** Average R/F/M metrics across key segments.
+
+***Figure:** Average R/F/M metrics across key segments.*
 
 
 ### Churn-risk segment  
@@ -70,6 +71,15 @@ These insights come straight from the Recency, Frequency and Monetary distributi
 | **Champions / Loyal Big-Spenders** | VIP tier, milestone rewards, beta access |
 | **At-Risk** | ₺200 “We Miss You” credit, win-back email, survey + credit |
 | **Emerging (New + Promising + Potential)** | Welcome bonus, ride bundles, referral multipliers, geo-targeted deals (Kadıköy, İzmir, etc.) 
+
+## 7. Closing Note
+
+Working through this project turned raw spreadsheets into something far more meaningful—a clear picture of how people actually use BiTaksi. Along the way I sharpened my data-wrangling skills, learned to translate numbers into stories, and saw firsthand how even simple models like RFM can drive focused strategy. What began as a technical exercise ended as a reminder that good analysis is really about understanding people and meeting them where they are.
+
+
+
+
+
 
 
 
