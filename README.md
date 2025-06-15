@@ -44,7 +44,7 @@ Totals: 1 000 riders, ₺ 2.58 M annual spend.
 ### Churn-risk segment  
 At-Risk users (nearly half of the dataset) haven’t ridden for approx. 9 months.
 
-![at_risk](images/at_risk.png)
+![at_risk](images/at_risk_1.png)
 
 ## 5. Data-Driven Insights Drawn Directly from the R-, F- and M-Scores
 
