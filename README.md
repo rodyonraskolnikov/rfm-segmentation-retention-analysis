@@ -38,18 +38,36 @@ Totals: 1 000 riders, ₺ 2.58 M annual spend.
 ### Behaviour differences  
 ![Segment comparison](images/behavior_diff_1.png)
 
-### Highest-value segment  
-Champions (≤ 1 % of users)
-
 ### Churn-risk segment  
 At-Risk users (nearly half of the dataset) haven’t ridden for approx. 9 months.
 
 ![at_risk](images/at_risk.png)
 
-## 5. Marketing Recommendations (more on the notebook)
+## 5. Data-Driven Insights Drawn Directly from the R-, F- and M-Scores
+
+### Data-Driven Insights Drawn Directly from the R-, F- and M-Scores
+
+* **Recency is the clearest churn flag.**
+  Riders with **R Score 1-2** (last trip more than \~6 months ago) represent just under **50 % of the base yet over 55 % of revenue**. Their high share of spend combined with long inactivity makes them the most urgent recovery target.
+
+* **Champions vs. Loyal Big-Spenders.**
+  Both groups have **R 5** and **F 5**, but Champions also score **M 5**. Loyal Big-Spenders sit at **M 4**; nudging their spend upward by only one quintile would double the size of the top tier without acquiring new users.
+
+* **Emerging customers have recency but lack depth.**
+  New, Promising and Potential Loyalist riders all carry an **R Score ≥ 4**, proving current interest, yet their **M Score ≤ 3**. They are prime candidates for ride bundles and milestone challenges to lift spend.
+
+* **At-Risk riders combine low recency with past value.**
+  They show **R ≤ 3** alongside **F ≥ 3 or M ≥ 3**. On average they still spend **₺2 850 per year**, far above the overall mean, so every successful win-back delivers disproportionate revenue.
+
+These insights come straight from the Recency, Frequency and Monetary distributions and explain **where churn is happening, where upsell potential lies, and which levers (R, F or M) to pull for each segment.**
+
+
+## 6. Marketing Recommendations (more on the notebook)
 | Segment | Actions |
 |---------|---------|
 | **Champions / Loyal Big-Spenders** | VIP tier, milestone rewards, beta access |
 | **At-Risk** | ₺200 “We Miss You” credit, win-back email, survey + credit |
-| **Emerging (New + Promising + Potential)** | Welcome bonus, ride bundles, referral multipliers, geo-targeted deals (Kadıköy, İzmir, etc.) |
+| **Emerging (New + Promising + Potential)** | Welcome bonus, ride bundles, referral multipliers, geo-targeted deals (Kadıköy, İzmir, etc.) 
+
+
 
