@@ -1,4 +1,4 @@
-# 🚕 BiTaksi RFM Segmentation Project
+# Alpha Riding App RFM Segmentation Project
 
 ## 1. Objective
 Segment 1 000 customers by Recency-Frequency-Monetary (RFM) scoring, identify key segments, and design data-backed marketing actions.
@@ -74,7 +74,7 @@ These insights come straight from the Recency, Frequency and Monetary distributi
 
 ## 7. Closing Note
 
-Working through this project turned raw spreadsheets into something far more meaningful—a clear picture of how people actually use BiTaksi. Along the way I sharpened my data-wrangling skills, learned to translate numbers into stories, and saw firsthand how even simple models like RFM can drive focused strategy. What began as a technical exercise ended as a reminder that good analysis is really about understanding people and meeting them where they are.
+Working through this project turned raw spreadsheets into something far more meaningful—a clear picture of how people actually use Alpha Riding App. Along the way I sharpened my data-wrangling skills, learned to translate numbers into stories, and saw firsthand how even simple models like RFM can drive focused strategy. What began as a technical exercise ended as a reminder that good analysis is really about understanding people and meeting them where they are.
 
 
 
